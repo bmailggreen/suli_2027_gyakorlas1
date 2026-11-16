@@ -4,3 +4,4 @@ kenyer
 csoki
 Whiskas
 kutya kaja
+kóla

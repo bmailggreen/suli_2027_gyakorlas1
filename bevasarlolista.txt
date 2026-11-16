@@ -5,3 +5,4 @@ csoki
 Whiskas
 kutya kaja
 kóla
+fanta

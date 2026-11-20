@@ -16,6 +16,7 @@ paprika
 paradicsom
 uborka
 hagyma
+tök
 alma
 körte
 szilva
